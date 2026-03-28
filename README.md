@@ -1,2 +1,2 @@
-# pokedex
-pokedex built with pokeapi and tkinter
+# pokédex
+pokédex built with pokeapi and tkinter
