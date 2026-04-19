@@ -1,2 +1,3 @@
 # pokédex
-pokédex built with pokeapi and tkinter
+
+Pokédex uses pokeapi for all the data.
