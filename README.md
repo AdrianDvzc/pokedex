@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-FF6B6B?style=for-the-badge)
 ![PokéAPI](https://img.shields.io/badge/PokéAPI-REST-EF5350?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
 
 <br/>
 
